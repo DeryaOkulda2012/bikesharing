@@ -4,8 +4,8 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 - The length of time that bikes are checked out for all riders and genders
 - The number of bike trips for all riders and genders for each hour of each day of the week
-- The number of bike trips for each type of user and gender for each day of the week.
-- Two visualizations showing geographic locations of bike trip starts and trip ending locations.
+- The number of bike trips for each type of user and gender for each day of the week
+- Two visualizations showing geographic locations of bike trip starts and trip ending locations
 
 ### Tableau Story can be found in the following link:
 https://public.tableau.com/app/profile/derya.m.ferendeci/viz/CitiBikeAnalysis_16451377096080/TheStory?publish=yes
