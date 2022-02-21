@@ -8,7 +8,7 @@ Show the number of bike trips for each type of user and gender for each day of t
 Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 
 
-## Tableau Story can be found in the following link:
+### Tableau Story can be found in the following link:
 https://public.tableau.com/app/profile/derya.m.ferendeci/viz/CitiBikeAnalysis_16451377096080/TheStory?publish=yes
 
 ## Checkout Times for All Users:
