@@ -8,7 +8,7 @@ The purpose of this project is to convince investors that a bike-sharing program
 - Two visualizations showing geographic locations of bike trip starts and trip ending locations
 
 ## Executive Summary:
-Based on findings from the data as illustrated below, top takeaways to create a successful bike program in De Moines are:
+Based on findings from the data as illustrated below, top takeaways for a successful bike program in Des Moines are:
 
 - Advertise to target men as the main demographic
 - Position the bikes in the most populated areas
