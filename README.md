@@ -13,3 +13,21 @@ https://public.tableau.com/app/profile/derya.m.ferendeci/viz/CitiBikeAnalysis_16
 ## Checkout Times for All Users:
 !["images/01_CheckoutTimesforUsers.png"](images/01_CheckoutTimesforUsers.png)
 
+## Checkout Times by Gender:
+!["images/02_CheckoutTimesforGender.png"](images/02_CheckoutTimesforGender.png)
+
+## Trips by Weekday for Each Hour:
+!["images/03_TripsbyWeekdayperEachHour.png"](images/03_TripsbyWeekdayperEachHour.png)
+
+## Trips by Gender per Weekday per Hour:
+!["images/04_TripsbyGenderWeekdayperHour.png"](images/04_TripsbyGenderWeekdayperHour.png)
+
+## User Trips by Gender by Weekday:
+!["images/05_UserTripsbyGenderbyWeekday.png"](images/05_UserTripsbyGenderbyWeekday.png)
+
+## Bike Trip Starts Greater NYC:
+!["images/06_BikeTripStartsManhattan.png"](images/06_BikeTripStartsManhattan.png)
+
+## Bike Trip Ending Locations for Greater NYC:
+!["images/07_BikeTripEndsManhattan.png"](images/07_BikeTripEndsManhattan.png)
+
