@@ -10,8 +10,8 @@ The purpose of this project is to convince investors that a bike-sharing program
 ## Executive Summary:
 Based on findings from the data as illustrated below, top takeaways to create a successful bike program in De Moines are:
 
-- Advertising to target men as the main demographic
-- Positioned the bikes in the most populated areas
+- Advertise to target men as the main demographic
+- Position the bikes in the most populated areas
 - Offer incentives for use during high commute hours
 
 ### Tableau Story can be found in the following link:
