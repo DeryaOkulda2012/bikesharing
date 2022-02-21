@@ -7,6 +7,13 @@ The purpose of this project is to convince investors that a bike-sharing program
 - The number of bike trips for each type of user and gender for each day of the week
 - Two visualizations showing geographic locations of bike trip starts and trip ending locations
 
+## Executive Summary:
+Based on findings from the data as illustrated below, top takeaways to create a successful bike program in De Moines are:
+
+- Advertising to target men as the main demographic
+- Positioned the bikes in the most populated areas
+- Offer incentives for use during high commute hours
+
 ### Tableau Story can be found in the following link:
 https://public.tableau.com/app/profile/derya.m.ferendeci/viz/CitiBikeAnalysis_16451377096080/TheStory?publish=yes
 
