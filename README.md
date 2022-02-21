@@ -1,4 +1,4 @@
-# Bike Sharing Service
+# CitiBike Sharing Service
 
 The purpose of this project is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis. For this analysis, Pandas is used to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, a set of visualizations is created in Tableau to illustrate and visualise:
 
